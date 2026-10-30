@@ -2,7 +2,7 @@
 Um repositório com projetos de terceiros que pego e redefino alguns códigos... Onde muitas vezes mudo apenas a questão de estética.
 Neste projeto que peguei do @AsmrProg, que possui um canal no youtube onde programa código por código. 
 Para adiquirir experiência vou utilizar este codigo para mexer com o front end. 
-Neste commit irei apenas estar atualizando o background do gerador, deixando ele com uma cor gradient. 
+Neste commit irei atualizar o background do gerador, deixando ele com uma cor gradient. 
 
 O objetivo nas proximas atualizações de commit será incluir este gerador em um site que irei hospedar na internet, o qual será propriamente para gerar senhas para usuários.
 
